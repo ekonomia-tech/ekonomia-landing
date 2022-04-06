@@ -1,0 +1,61 @@
+[
+	{
+		"title": "Senior Blockchain Developer",
+		"requirements": [
+			{
+				"main": "Experience in building blockchain projects in Solidity, go or Rust."
+			},
+			{
+				"main": "Will help lead research and development of a new blockchain protocol. Platforms in considerations:",
+				"sub": [
+					"EVM based (solidity)",
+					"Cosmos-SDK (go)",
+					"Polkadot Substrate (rust)"
+				]
+			},
+			{
+				"main": "Subgraph development experience is a nice to have."
+			}
+		]
+	},
+	{
+		"title": "Senior Developer",
+		"requirements": [
+			{
+				"main": "Developer with +5 years experience."
+			},
+			{
+				"main": "Experience in go, rust, javascript, python considered."
+			},
+			{
+				"main": "High interest and conviction to join the blockchain industry, even if they have no prior blockchain experience. This could be their first blockchain job!"
+			},
+			{
+				"main": "Can quickly pick up new coding tasks."
+			}
+		]
+	},
+	{
+		"title": "Head of Business",
+		"requirements": [
+			{
+				"main": "Has a good understanding of DeFi."
+			},
+			{
+				"main": "Enjoys spontaneity."
+			},
+			{
+				"main": "Ability to be thrown into anything - including legal, finance, events, hiring, strategy, sales, and marketing."
+			},
+			{
+				"main": "Good with people."
+			},
+			{
+				"main": "Any experience in content - tweets, blogs, vlogs, etc. are a bonus."
+			},
+			{
+				"main": "This job could be summed up as someone with startup founder experience. It is not a requirement, but it paints the picture well - highly motivated and flexible."
+			}
+		]
+	}
+]
