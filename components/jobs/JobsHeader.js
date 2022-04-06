@@ -11,13 +11,13 @@ export default function JobsHeader() {
 						</div>
 					</div>
 					<div className="flex absolute justify-center w-full h-max">
-						<div className="bg-gradient-1 w-6 h-24 rounded-full mx-3 blur-lg mt-5 md:h-48 md:w-14 xl:w-18 "></div>
-						<div className="bg-gradient-2 w-6 h-24 rounded-full mx-3 blur-lg mb-5 md:h-48 md:w-14 xl:w-18 "></div>
-						<div className="bg-gradient-3 w-6 h-24 rounded-full mx-3 blur-lg mt-5 md:h-48 md:w-14 xl:w-18 "></div>
-						<div className="bg-gradient-4 w-6 h-24 rounded-full mx-3 blur-lg mb-5 md:h-48 md:w-14 xl:w-18 "></div>
-						<div className="bg-gradient-5 w-6 h-24 rounded-full mx-3 blur-lg mt-5 md:h-48 md:w-14 xl:w-18 "></div>
-						<div className="bg-gradient-6 w-6 h-24 rounded-full mx-3 blur-lg mb-5 md:h-48 md:w-14 xl:w-18 "></div>
-						<div className="bg-gradient-7 w-6 h-24 rounded-full mx-3 blur-lg mt-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-1 w-14 h-32 rounded-full blur-xl mt-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-2 w-14 h-32 rounded-full blur-xl mb-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-3 w-14 h-32 rounded-full blur-xl mt-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-4 w-14 h-32 rounded-full blur-xl mb-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-5 w-14 h-32 rounded-full blur-xl mt-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-6 w-14 h-32 rounded-full blur-xl mb-5 md:h-48 md:w-14 xl:w-18 "></div>
+						<div className="bg-opacity-90 bg-gradient-7 w-14 h-32 rounded-full blur-xl mt-5 md:h-48 md:w-14 xl:w-18 "></div>
 					</div>
 				</div>
 			</div>

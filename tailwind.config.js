@@ -18,6 +18,9 @@ module.exports = {
 		}),
 
 		extend: {
+			backgroundImage: {
+				"pattern-image": "url(/images/bg.png)",
+			},
 			colors: {
 				"gradient-1": "#8b4513",
 				"gradient-2": "#824b18",

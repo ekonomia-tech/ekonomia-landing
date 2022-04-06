@@ -1,7 +1,7 @@
 export default function MainLogo() {
 	return (
 		<div className="relative">
-			<div className="flex items-center pt-48 pb-10 md:pt-60">
+			<div className="flex items-center pt-48 pb-10 md:pt-60 xl:pt-80">
 				<div className="w-full flex flex-col items-center absolute justify-center z-10">
 					<div className="flex backdrop-filter pt-4">
 						<div className="drop-shadow-2xl">
@@ -16,13 +16,13 @@ export default function MainLogo() {
 					</div>
 				</div>
 				<div className="flex absolute justify-center w-full h-max">
-					<div className="bg-gradient-1 w-7 h-36 rounded-full mx-3 blur-lg mt-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
-					<div className="bg-gradient-2 w-7 h-36 rounded-full mx-3 blur-lg mb-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
-					<div className="bg-gradient-3 w-7 h-36 rounded-full mx-3 blur-lg mt-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
-					<div className="bg-gradient-4 w-7 h-36 rounded-full mx-3 blur-lg mb-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
-					<div className="bg-gradient-5 w-7 h-36 rounded-full mx-3 blur-lg mt-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
-					<div className="bg-gradient-6 w-7 h-36 rounded-full mx-3 blur-lg mb-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
-					<div className="bg-gradient-7 w-7 h-36 rounded-full mx-3 blur-lg mt-5 md:h-60 md:w-14 xl:w-18 xl:h-72"></div>
+					<div className="bg-opacity-90 bg-gradient-1 w-12 h-36 rounded-full  blur-xl mt-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
+					<div className="bg-opacity-90 bg-gradient-2 w-12 h-36 rounded-full  blur-xl mb-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
+					<div className="bg-opacity-90 bg-gradient-3 w-12 h-36 rounded-full  blur-xl mt-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
+					<div className="bg-opacity-90 bg-gradient-4 w-12 h-36 rounded-full  blur-xl mb-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
+					<div className="bg-opacity-90 bg-gradient-5 w-12 h-36 rounded-full  blur-xl mt-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
+					<div className="bg-opacity-90 bg-gradient-6 w-12 h-36 rounded-full  blur-xl mb-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
+					<div className="bg-opacity-90 bg-gradient-7 w-12 h-36 rounded-full  blur-xl mt-5 md:h-60 md:w-20 xl:w-20 xl:h-60"></div>
 				</div>
 			</div>
 		</div>

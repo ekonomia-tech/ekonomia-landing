@@ -8,9 +8,9 @@ export default function Footer() {
 
 	return (
 		<div
-			className={`w-screen fixed bottom-0 h-12 flex items-center justify-between text-xs text-secondary bg-primary ${
+			className={`w-screen fixed bottom-0 h-12 flex items-center justify-between text-xs text-secondary  ${
 				router.asPath == "/jobs" &&
-				"trasnsition-all duration-300 shadow-lg  bg-opacity-60 border-t border-secondary backdrop-filter backdrop-blur-xl"
+				"trasnsition-all duration-300 shadow-lg  bg-opacity-60 border-t border-secondary backdrop-filter backdrop-blur-xl bg-primary"
 			}`}
 		>
 			<div className="flex">
