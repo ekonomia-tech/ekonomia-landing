@@ -8,7 +8,7 @@ export default function JobEntry({ data }) {
 			<div className="text-primary text-xl underline">{data.title}</div>
 			<div className="pt-3">
 				{data.requirements.map((req, i) => (
-					<div className="text-primary py-1.5">
+					<div className="text-primary py-1.5" key={i}>
 						<div className="flex items-start">
 							<img src="svg/Ekonomia-logo-light.svg" className="w-3" />
 							<div className="text-xs px-4">{req.main}</div>
@@ -17,7 +17,7 @@ export default function JobEntry({ data }) {
 						{req.sub && (
 							<div className="pt-1">
 								{req.sub.map((subreq, i) => (
-									<div className="pl-10">
+									<div className="pl-10" key={i}>
 										<div className="text-xs"> - {subreq}</div>
 									</div>
 								))}
