@@ -21,7 +21,7 @@ const sendContact = async ({ fullName, email, content, position }) => {
 	try {
 		const message = {
 			from: "nmimran99@gmail.com",
-			to: "nmimran99@gmail.com",
+			to: "ops@ekonomia.tech",
 			templateId: "d-eac0d01ec8db4dd5b4a9797823ccdea3",
 			dynamicTemplateData: {
 				subject: position
