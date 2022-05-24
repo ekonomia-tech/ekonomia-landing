@@ -31,7 +31,7 @@ export default function Layout({ children }) {
 	}, []);
 
 	return (
-		<div className="w-screen h-screen bg-primary">
+		<div className="w-screen">
 			<Navbar />
 			{children}
 			<ShouldRender should={!!modalData}>

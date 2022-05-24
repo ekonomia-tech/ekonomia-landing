@@ -5,7 +5,12 @@ import jobs from "../api/misc/jobs.json";
 
 export default function Jobs() {
 	return (
-		<div className="bg-primary py-6 animate-fadeIn">
+		<div
+			className="py-6 animate-fadeIn"
+			style={{
+				background: "linear-gradient(180deg, #111 0.0%, #333 100%)",
+			}}
+		>
 			<JobsHeader />
 			<JobsContainer>
 				{jobs.map((j, i) => (

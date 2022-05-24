@@ -24,17 +24,18 @@ export default function Footer() {
 					<div className="px-4 cursor-pointer">Jobs</div>
 				</Link>
 			</div>
-			<div className="flex px-4">
+			<div className="flex px-4 items-center">
+				<Link href="https://www.medium.com/@ekonomia" passHref={true}>
+					<a target="_blank" className="px-3">
+						<img src="svg/Medium.svg" className="w-4 cursor-pointer lg:w-6" />
+					</a>
+				</Link>
 				<Link href="https://github.com/ekonomia-tech" passHref={true}>
 					<a target="_blank" className="px-3">
 						<img src="svg/github.svg" className="w-4 cursor-pointer lg:w-6" />
 					</a>
 				</Link>
-				{/* <Link href="https://github.com/ekonomia-tech" passHref={true}>
-					<a target="_blank" className="px-3">
-						<img src="svg/twitter.svg" className="w-4 cursor-pointer" />
-					</a>
-				</Link>
+				{/* 
 				<Link href="https://github.com/ekonomia-tech" passHref={true}>
 					<a target="_blank" className="px-3">
 						<img src="svg/discord.svg" className="w-4 cursor-pointer" />

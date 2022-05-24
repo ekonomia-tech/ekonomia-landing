@@ -31,10 +31,11 @@ module.exports = {
 				"gradient-7": "#556b2f",
 			},
 			backgroundColor: {
-				primary: "#333",
+				primary: "#222",
 				secondary: "#FFF",
 				success: "#198754",
 				error: "#FF0000",
+				gg: "linear-gradient(188.67deg, #111111 9.85%, #555555 36.3%, #616329 57.37%, #735520 77.99%, #8B4513 95.93%);",
 			},
 			textColor: {
 				primary: "#ddd",
