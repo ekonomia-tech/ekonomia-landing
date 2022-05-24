@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default () => {
+export default function Links() {
 	return (
 		<div className="w-full py-12 flex flex-col items-center justify-center pb-36">
 			<Link href="https://github.com/ekonomia-tech" passHref={true}>
@@ -31,4 +31,4 @@ export default () => {
 			</Link>
 		</div>
 	);
-};
+}

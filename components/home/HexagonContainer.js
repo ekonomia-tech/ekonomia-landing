@@ -1,4 +1,4 @@
-export default function ({ icon, header, content }) {
+export default function HexagonContainer({ icon, header, content }) {
 	return (
 		<div className="relative flex justify-center">
 			<img src="svg/HexData.svg" className="w-[400px] sm:w-[500px]" />

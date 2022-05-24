@@ -1,4 +1,4 @@
-export default function ({ direction }) {
+export default function HexagonsArrow({ direction }) {
 	return (
 		<div
 			className={` w-full justify-center flex ${

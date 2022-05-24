@@ -1,6 +1,6 @@
 import HexagonContainer from "./HexagonContainer";
 
-export default function () {
+export default function HexagonsContainer() {
 	return (
 		<div className="w-full mx-auto grid grid-cols-1 justify-center md:grid-cols-2 md:w-full 2xl:w-3/5">
 			<HexagonContainer
