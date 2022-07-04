@@ -3,7 +3,26 @@
 		"title": "Senior Blockchain Developer",
 		"requirements": [
 			{
-				"main": "Experience in building blockchain projects in Solidity, go or Rust."
+				"main": "+2 years Experience in building blockchain projects in Solidity, go or Rust."
+			},
+			{
+				"main": "Will help lead research and development of a new blockchain protocol. Platforms in considerations:",
+				"sub": [
+					"EVM based (solidity)",
+					"Cosmos-SDK (go)",
+					"Polkadot Substrate (rust)"
+				]
+			},
+			{
+				"main": "Subgraph development experience is a nice to have."
+			}
+		]
+	},
+	{
+		"title": "Intermediate Blockchain Developer",
+		"requirements": [
+			{
+				"main": "+1 year experience in building blockchain projects in Solidity, go or Rust."
 			},
 			{
 				"main": "Will help lead research and development of a new blockchain protocol. Platforms in considerations:",
@@ -25,10 +44,44 @@
 				"main": "Developer with +5 years experience."
 			},
 			{
-				"main": "Experience in go, rust, javascript, python considered."
+				"main": "Experience in go, rust, javascript, typescript, and python considered."
 			},
 			{
 				"main": "High interest and conviction to join the blockchain industry, even if they have no prior blockchain experience. This could be their first blockchain job!"
+			},
+			{
+				"main": "Can quickly pick up new coding tasks."
+			}
+		]
+	},
+	{
+		"title": "Intermediate Developer",
+		"requirements": [
+			{
+				"main": "Developer with +3 years experience."
+			},
+			{
+				"main": "Experience in go, rust, javascript, typescript, and python considered."
+			},
+			{
+				"main": "High interest and conviction to join the blockchain industry, even if they have no prior blockchain experience. This could be their first blockchain job!"
+			},
+			{
+				"main": "Can quickly pick up new coding tasks."
+			}
+		]
+	},
+	{
+		"title": "Front End Web3 Developer",
+		"requirements": [
+			{
+				"main": "Developer with +3 years experience with front end frameworks."
+			},
+			{
+				"main": "Experience with ethers.js or web3.js."
+			},
+			{
+				"main": "High interest and conviction to work in the blockchain industry."
 			},
 			{
 				"main": "Can quickly pick up new coding tasks."
