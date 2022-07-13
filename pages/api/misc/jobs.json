@@ -87,5 +87,19 @@
 				"main": "Can quickly pick up new coding tasks."
 			}
 		]
+	},
+	{
+		"title": "DeFi Researcher",
+		"requirements": [
+			{
+				"main": "Background in math, physics, or finance."
+			},
+			{
+				"main": "Has +2 years of experience going deep into DeFi protocols, and being able to explain concepts in DeFi protocols such as Frax or Olympus."
+			},
+			{
+				"main": "Can show content, data, or analytics of past work they have done."
+			}
+		]
 	}
 ]
